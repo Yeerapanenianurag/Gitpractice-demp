@@ -1,4 +1,4 @@
 # Gitpractice-demo
 this is my first repositary.
 <br>
-Author - Anurag chowdary
+Author - Anurag (yeerapaneni)
